@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!--
+ Created with IntelliJ IDEA.
+ User: Andrey Assaul
+ Date: 17.09.2015
+ Time: 13:54
+-->
+<s:View xmlns:fx="http://ns.adobe.com/mxml/2009" xmlns:s="library://ns.adobe.com/flex/spark"
+        creationComplete="creationCompleteHandler(event)">
+
+    <fx:Script><![CDATA[
+        import com.trembit.addressBook.AddressBook;
+
+        import mx.collections.ArrayCollection;
+
+        import mx.events.FlexEvent;
+
+        private static function creationCompleteHandler(event:FlexEvent):void {
+            var addressBook:AddressBook = new AddressBook();
+            var contacts:ArrayCollection = addressBook.getEmailContacts();
+        }
+        ]]></fx:Script>
+</s:View>

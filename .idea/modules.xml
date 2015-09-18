@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ASAddressBook/ASAddressBook.iml" filepath="$PROJECT_DIR$/ASAddressBook/ASAddressBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaAddressBook/JavaAddressBook.iml" filepath="$PROJECT_DIR$/JavaAddressBook/JavaAddressBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Root.iml" filepath="$PROJECT_DIR$/Root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestMobile/TestMobile.iml" filepath="$PROJECT_DIR$/TestMobile/TestMobile.iml" />
+    </modules>
+  </component>
+</project>
