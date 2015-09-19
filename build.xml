@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="ane-native-service" default="all">
+<project name="ane-address-book" default="all">
 
     <property file="build.properties"/>
 
